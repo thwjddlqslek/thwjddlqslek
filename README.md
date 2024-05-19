@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sojeong-Kim
+### Hi there 👋, I'm Kim So-Jeong!
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EDC5C4&title_bg=%23B4C1DC&icon=ghostery.svg&icon_color=%23EDC5C4&title=hits&edge_flat=false"/></a> <br>
 - 🎓 성신여자대학교에서 융합보안공학을 공부하고 있습니다. <br>
 - 👨‍💻 현재 프론트엔드 개발에 관심을 가지고 배우고 있습니다. <br>
