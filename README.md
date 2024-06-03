@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Hi,%20I'm%20So%20Jeong👋">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=auto&text=Hi,%20I'm%20So%20Jeong👋&desc=Frontend%20Developer%20Aspirant&descSize=30&descAlignY=65&fontSize=60&fontAlignY=40">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&random=false&width=435&lines=A+student+majoring+in+SSWU-CSE.;(Convergence+Security+Engineering)" alt="Typing SVG" />
 </p>
 <h3 align="center">📚 Tech Stacks & Collaboration Tools</h3>
