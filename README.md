@@ -35,6 +35,6 @@
 
   <a href="https://github.com/thwjddlqslek">
     <!--GitHub 언어 사용빈도-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwjddlqslek&layout=compact&theme=github_dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwjddlqslek&layout=compact" alt="Top Languages">
   </a>
 </p>
