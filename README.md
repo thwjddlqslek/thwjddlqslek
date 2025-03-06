@@ -4,6 +4,7 @@
   
 |	Date |Experience|	
 |--|---|
+|2025\.01 ~ Present|Depromeet 16th, FE|
 |2024\.09 ~ 2024.12|Intern, ICT Internship, FE|
 |2024\.06 ~ Present|Sujeong Mine Development Team, SSWU Community App, FE|
 |2023\.09 ~ 2024.01|TAVE 12th FE|
