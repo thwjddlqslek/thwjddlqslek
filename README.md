@@ -4,11 +4,12 @@
   
 |	Date |Experience|	
 |--|---|
-|2025\.01 ~ Present|Depromeet 16th, FE|
-|2024\.09 ~ 2024.12|Intern, ICT Internship, FE|
+|2025\.06 ~ Present|[Toss Securities](https://corp.tossinvest.com/en), FE Assistant|
+|2025\.01 ~ 2025.04|[Depromeet](https://www.depromeet.com/) 16th, FE|
+|2024\.09 ~ 2024.12|ICT Internship, FE|
 |2024\.06 ~ Present|[Crystal Mine](https://apps.apple.com/si/app/%EC%88%98%EC%A0%95%EA%B4%91%EC%82%B0/id1641132567), FE|
-|2023\.09 ~ 2024.01|TAVE 12th FE|
-|2023\.03 ~ 2023.07|Intern, DAOU TECHNOLOGY INC QA|
+|2023\.09 ~ 2024.01|TAVE 12th, FE|
+|2023\.03 ~ 2023.07|Intern, DAOU TECHNOLOGY INC, QA|
 |2022\.09 ~ 2022.12|LikeLion x Nexon MSW, Developer & Planner|
 |2021\.03 ~ Present|Convergence Security Engineering, SSWU|
 
